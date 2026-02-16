@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [China — Interim Measures for the Management of Generative AI Services](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)
 
+## Website Screenshot
+![China — Interim Measures official website screenshot](./images/China — Interim Measures for the Management of Generative AI Services.png)
+
 ## Brief Info
 Reference checklist pack for China — Interim Measures for the Management of Generative AI Services. Jurisdiction: China. Type: Regulation / measures.
 
